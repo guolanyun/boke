@@ -1,0 +1,130 @@
+@import url("base.css");
+@font-face {
+    font-family: 'iconfont';  /* project id 590235 */
+    src: url('http://at.alicdn.com/t/font_590235_ax6r8bp7vph3q5mi.eot');
+    src: url('http://at.alicdn.com/t/font_590235_ax6r8bp7vph3q5mi.eot?#iefix') format('embedded-opentype'),
+    url('http://at.alicdn.com/t/font_590235_ax6r8bp7vph3q5mi.woff') format('woff'),
+    url('http://at.alicdn.com/t/font_590235_ax6r8bp7vph3q5mi.ttf') format('truetype'),
+    url('http://at.alicdn.com/t/font_590235_ax6r8bp7vph3q5mi.svg#iconfont') format('svg');
+}
+.iconfont{
+    font-family: 'iconfont';
+}
+i{
+    font-style: normal;
+}
+
+/*body{*/
+/*height: 30rem;*/
+/*}*/
+
+/*顶部开始*/
+.header{
+    width: 100%;
+    height: 1rem;
+    background: #0E88EB;
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+}
+.shuzi{
+    width: 2rem;
+    height: 0.5rem;
+    color: #fff;
+    margin:0.3rem auto;
+    font-size: 0.35rem;
+    text-align: center;
+}
+.fanhui{
+    float: left;
+    display: block;
+    width: 0.45rem;
+    height: 0.45rem;
+    margin-top: -0.8rem;
+    color: #fff;
+    margin-left: 0.3rem;
+}
+.sousuo{
+    display: block;
+    width: 1rem;
+    height: 0.45rem;
+    float: right;
+    margin-right: 0.2rem;
+    margin-top: -0.75rem;
+    color: #fff;
+    font-size: 0.3rem;
+}
+
+.xuanze{
+    width: 100%;
+    height: 0.99rem;
+    background: #f5f5f5;
+    margin-top: 1rem;
+    overflow: hidden;
+    border-bottom: 0.01rem solid #ddd;
+}
+.qing{
+    font-size: 0.25rem;
+    color: #666;
+    margin-top: 0.3rem;
+    margin-left: 0.4rem;
+}
+.shijian{
+    width: 100%;
+    height: 0.9rem;
+    overflow: hidden;
+}
+.shijian_nk{
+    width: 7rem;
+    height: 0.89rem;
+    border-bottom: 0.01rem solid #ddd;
+    margin-left: 0.2rem;
+    overflow: hidden;
+}
+.sj{
+    width: 1rem;
+    height: 0.3rem;
+    font-size: 0.3rem;
+    color: #0E88EB;
+    margin-top: 0.35rem;
+    float: left;
+    margin-left: 0.2rem;
+}
+.icon{
+    display: block;
+    width: 0.48rem;
+    height: 0.38rem;
+    /*background: yellow;*/
+    float: right;
+    margin-right: 0.3rem;
+    margin-top: 0.3rem;
+    color: #0E88EB;
+}
+.sj1{
+    width: 1.5rem;
+    height: 0.3rem;
+    font-size: 0.3rem;
+    color: #202020;
+    margin-top: 0.35rem;
+    margin-left: 0.2rem;
+    line-height: 0.3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
